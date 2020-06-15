@@ -1,1 +1,2 @@
-*.csv
+/secret-data/secretdata.csv
+
